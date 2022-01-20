@@ -1,2 +1,5 @@
 # InternshipChallenge
-Summer Internship Challenge
+
+
+Please refer to the attached documentation here.
+
